@@ -1,4 +1,6 @@
 package com.example.sinaihr
 
-class App {
+import android.app.Application
+
+class App: Application() {
 }
