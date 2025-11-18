@@ -1,4 +1,4 @@
-package com.example.sinaihr.ui.theme
+package com.example.sinaihr.presentation.designSystem.theme
 
 import androidx.compose.ui.graphics.Color
 
